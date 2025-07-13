@@ -1,5 +1,9 @@
 streamlit
 python-dotenv
 plotly
-pypdf2
+langchain
+langchain-community
+langchain-google-genai
 google-generativeai
+PyMuPDF
+faiss-cpu
